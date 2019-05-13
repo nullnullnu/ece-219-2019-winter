@@ -3,3 +3,4 @@
 project1/.ipynb_checkpoints/ECE219 Project1-checkpoint.ipynb
 Folder/.ipynb_checkpoints/*.ipynb
 .ipynb_checkpoints
+**/*.ipynb_checkpoints/
